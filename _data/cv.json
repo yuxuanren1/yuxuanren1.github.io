@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yuxuan Ren",
+    "email": "ren.yuxuan@wustl.edu",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "St. Louis",
       "countryCode": "US",
       "region": ""
     },
@@ -33,7 +33,7 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
+      "institution": "Washington University in St. Louis",
       "area": "Ph.D in Version Control Theory",
       "studyType": "",
       "startDate": "",
