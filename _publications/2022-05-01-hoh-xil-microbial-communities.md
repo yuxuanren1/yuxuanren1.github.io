@@ -7,5 +7,5 @@ excerpt: 'Effects of environmental factors on the distribution of microbial comm
 date: 2022-05-01
 venue: 'Science of the Total Environment, 838, 156148'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2022.156148'
-citation: 'Wang, X., Ren, Y., Yu, Z., Shen, G., Cheng, H., Tao, S. (2022). Effects of Environmental Factors on the Distribution of Microbial Communities Across Soils and Lake Sediments in the Hoh Xil Nature Reserve of the Qinghai-Tibetan Plateau. <i>Science of the Total Environment</i>, 838, 156148.'
+citation: 'Wang, X., <b>Ren, Y.</b>, Yu, Z., Shen, G., Cheng, H., Tao, S. (2022). Effects of Environmental Factors on the Distribution of Microbial Communities Across Soils and Lake Sediments in the Hoh Xil Nature Reserve of the Qinghai-Tibetan Plateau. <i>Science of the Total Environment</i>, 838, 156148.'
 ---

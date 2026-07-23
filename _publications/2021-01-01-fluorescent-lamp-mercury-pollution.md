@@ -7,5 +7,5 @@ excerpt: 'Atmospheric mercury pollution caused by fluorescent lamp manufacturing
 date: 2021-01-01
 venue: 'Environmental Pollution, 269, 116146'
 paperurl: 'https://doi.org/10.1016/j.envpol.2020.116146'
-citation: 'Luo, Q., Ren, Y., Sun, Z., Li, Y., Li, B., Yang, S., Zhang, W., Hu, Y., Cheng, H. (2021). Atmospheric Mercury Pollution Caused by Fluorescent Lamp Manufacturing and the Associated Human Health Risk in a Large Industrial and Commercial City. <i>Environmental Pollution</i>, 269, 116146.'
+citation: 'Luo, Q., <b>Ren, Y.</b>, Sun, Z., Li, Y., Li, B., Yang, S., Zhang, W., Hu, Y., Cheng, H. (2021). Atmospheric Mercury Pollution Caused by Fluorescent Lamp Manufacturing and the Associated Human Health Risk in a Large Industrial and Commercial City. <i>Environmental Pollution</i>, 269, 116146.'
 ---
