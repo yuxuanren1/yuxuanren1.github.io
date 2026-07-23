@@ -91,10 +91,17 @@
     display: block;
     width: auto;
     height: auto;
+    text-align: center;
   }
 
   img {
-    max-width: 175px;
+    display: block;
+    width: 140px;
+    max-width: 140px;
+    height: 140px;
+    margin: 0 auto;
+    object-fit: cover;
+    object-position: center top;
     border-radius: 50%;
 
     @include breakpoint($large) {
