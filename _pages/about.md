@@ -11,7 +11,7 @@ Updated July 2026
 
 **I am actively seeking postdoctoral opportunities beginning in 2027 in atmospheric chemistry.** I'd love to connect if my research interests align with your group's work!
 
-I'm a PhD Candidate at Washington University in St. Louis, working with Randall Martin in the [Atmospheric Composition Analysis Group (ACAG)](https://sites.wustl.edu/acag/). My research combines ground-based observations from the globally distributed Surface Particulate Matter Network [SPARTAN](https://www.spartan-network.org/) with chemical transport model ([GEOS-Chem](https://geoschem.github.io/index.html)) simulations to study atmospheric composition.
+I'm a PhD Candidate at Washington University in St. Louis, working with Randall Martin in the [Atmospheric Composition Analysis Group (ACAG)](https://sites.wustl.edu/acag/). My research combines ground-based observations from the globally distributed Surface Particulate Matter Network ([SPARTAN](https://www.spartan-network.org/)) with chemical transport model ([GEOS-Chem](https://geoschem.github.io/index.html)) simulations to study atmospheric composition.
 
 Research Highlights:
 
