@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Yuxuan Ren"
   pronouns         : "She/Her/Hers"
-  bio              : "PhD Candidate in Environmental Engineering"
+  bio              : "PhD Candidate in<br>Environmental Engineering"
   location         : "St. Louis, MO"
-  employer         : "Washington University in St. Louis"
+  employer         : "Washington University<br>in St. Louis"
   uri              : # URL
   email            : "ren.yuxuan@wustl.edu"
 
