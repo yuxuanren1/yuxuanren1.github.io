@@ -9,7 +9,7 @@ author_profile: true
 
 {% assign grouped = site.teaching | sort: "date" | reverse | group_by: "venue" %}
 {% for group in grouped %}
-  <p><strong>{{ group.name }}, Teaching Assistant</strong></p>
+  <p><strong>{{ group.name }}</strong>, Teaching Assistant</p>
   <ul>
   {% for post in group.items %}
     <li>{{ post.title }} ({{ post.term }})</li>
