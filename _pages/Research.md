@@ -7,21 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-I am an atmospheric chemist. I use ground-based measurements and chemical transport models to study atmospheric composition, inform air quality policy, and protect human health.
+I am an atmospheric chemist. I use ground-based measurements and chemical transport models to study atmospheric composition, inform air quality policy, and protect human health. My work spans three areas &mdash; explore each below.
 
-## Research Assistant, Washington University in St. Louis (2023&ndash;Present)
-**Advisor:** [Randall V. Martin](https://engineering.washu.edu/faculty/Randall-Martin.html)
-
-* Characterized aerosol composition using the globally distributed Surface Particulate Matter Network ([SPARTAN](https://www.spartan-network.org/))
-* Evaluated global black carbon emissions with SPARTAN measurements and the chemical transport model [GEOS-Chem](https://geoschem.github.io/index.html)
-* Developed an offline aerosol mass spectrometry method for organic aerosol characterization on PTFE filters
-* Developing a global organic aerosol dataset for model evaluation
-
-## Research Assistant, Peking University (2018&ndash;2022)
-**Advisor:** Hefa Cheng
-
-* Characterized heavy metals in particulate matter (PM) across 12 major cities in China
-* Assessed the bioaccessibility and health risks of PM-bound heavy metals using simulated physiological fluids
+{% include research-subnav.html %}
 
 ## Field Experience
 
