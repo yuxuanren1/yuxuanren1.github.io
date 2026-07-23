@@ -9,10 +9,10 @@ author_profile: true
 
 {% assign grouped = site.teaching | sort: "date" | reverse | group_by: "venue" %}
 {% for group in grouped %}
-  <p><strong>{{ group.name }}</strong>, Teaching Assistant &mdash; {{ group.items.first.location }}</p>
-  <ul style="list-style: none; padding-left: 0;">
+  <p><strong>{{ group.name }}, Teaching Assistant</strong></p>
+  <ul>
   {% for post in group.items %}
-    <li><em>{{ post.title }}</em> &mdash; {{ post.term }}</li>
+    <li>{{ post.title }} ({{ post.term }})</li>
   {% endfor %}
   </ul>
 {% endfor %}
