@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "SPARTAN"
+    url: https://www.spartan-network.org/
+
   # - title: "Guide"
   #   url: /markdown/
