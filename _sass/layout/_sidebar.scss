@@ -248,10 +248,18 @@
 
   li {
     white-space: nowrap;
+    display: flex;
+    align-items: flex-start;
+
+    i {
+      flex-shrink: 0;
+    }
   }
 
   a {
-    display: block;
+    display: flex;
+    align-items: flex-start;
+    flex: 1 1 auto;
     margin-bottom: 5px;
     padding-right: 5px;
     padding-top: 2px;
