@@ -13,6 +13,11 @@ redirect_from:
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% assign all_talks = site.talks | reverse %}
+{% assign total = all_talks.size %}
+<ul style="list-style: none; padding-left: 0;">
+{% for post in all_talks %}
+  {% assign num = total | minus: forloop.index0 %}
+  <li>[{{ num }}] {{ post.title }}. {{ post.venue }}, {{ post.location }}, {{ post.date | date: "%B %Y" }}. ({{ post.type }})</li>
 {% endfor %}
+</ul>

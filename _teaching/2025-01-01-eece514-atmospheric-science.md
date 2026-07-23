@@ -5,6 +5,7 @@ type: "Teaching Assistant"
 permalink: /teaching/2025-eece514-atmospheric-science
 venue: "Washington University in St. Louis"
 date: 2025-01-01
+term: "Spring 2025"
 location: "St. Louis, MO, USA"
 ---
 

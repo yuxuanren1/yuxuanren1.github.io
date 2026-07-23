@@ -11,26 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+{% for category in site.publication_category %}
+  {% assign cat_posts = site.publications | where: "category", category[0] | reverse %}
+  {% if cat_posts.size > 0 %}
+    <h2>{{ category[1].title }}</h2><hr />
+    <ul style="list-style: none; padding-left: 0;">
+    {% assign total = cat_posts.size %}
+    {% for post in cat_posts %}
+      {% assign num = total | minus: forloop.index0 %}
+      <li>[{{ num }}] {{ post.citation }}{% if post.paperurl %} <a href="{{ post.paperurl }}" target="_blank" rel="noopener">[link]</a>{% endif %}</li>
     {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+    </ul>
+  {% endif %}
+{% endfor %}
 
 
 
