@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My research combines globally distributed measurements from the Surface Particulate Matter Network [SPARTAN](https://www.spartan-network.org/) with chemical transport modeling [GEOS-Chem](https://geoschem.github.io/index.html) to improve the understanding of aerosol composition, evaluate emission inventories, and develop measurement techniques for global air quality and health applications.
+I am an atmospheric chemist. My research integrates aerosol mass spectrometry, ground-based measurements from the globally distributed Surface Particulate Matter Network [SPARTAN](https://www.spartan-network.org/), and chemical transport modeling with [GEOS-Chem](https://geoschem.github.io/index.html) to investigate aerosol composition, sources, and atmospheric processes.
 
 <div class="research-project" markdown="0">
 <b>Offline Aerosol Mass Spectrometry Methodology for Organic Aerosol Characterization</b><br />
