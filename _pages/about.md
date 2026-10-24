@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Updated July 2026
+Updated October 2026
 
 **I am actively seeking postdoctoral opportunities beginning in 2027 in atmospheric chemistry.** I'd love to connect if my research interests align with your group's work!
 

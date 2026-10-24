@@ -22,7 +22,7 @@ repository               : "yuxuanren1/yuxuanren1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yuxuan Ren"
   pronouns         : "She/Her/Hers"
   bio              : "PhD Candidate in<br>Environmental Engineering"
